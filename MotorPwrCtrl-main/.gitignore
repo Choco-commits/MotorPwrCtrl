@@ -1,0 +1,21 @@
+# Keil MDK build output (compiled artifacts, do not upload)
+MDK-ARM/Objects/
+MDK-ARM/*.uvguix.*
+MDK-ARM/*.uvoptx
+*.o
+*.d
+*.crf
+*.axf
+*.hex
+*.dep
+*.htm
+*.lnp
+*.map
+*.plg
+*.build_log.htm
+
+# Editor / OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
