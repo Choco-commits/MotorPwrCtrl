@@ -51,7 +51,3 @@ C · FreeRTOS · STM32 HAL · PID 控制 · DMA · 软件 I2C / SPI · UART
 - [PID-Motor-Controller-STM32F103-FreeRTOS](https://github.com/usman-aslam-dev/PID-Motor-Controller-STM32F103-FreeRTOS) — FreeRTOS 多任务 + PID 电机控制架构参考（MIT License）
 - STM32F103-INA226-ST7735-Indicator-Encoder-Protection-PS（作者：Aleksei SUBBOTIN）— INA226 软件 I2C 驱动参考
 - SPITest（作者：铁头山羊）— W25Q64 SPI 驱动参考
-
-
-<img width="307" height="408" alt="0723a3b6fb55ecaf6164d05659852a77" src="https://github.com/user-attachments/assets/c7d611b3-5b81-4107-8646-4804767e7fab" />
-
